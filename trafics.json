@@ -1,0 +1,128 @@
+[
+    {
+        "typeTrafic": "Arrivée",
+        "codeAirport": "NBE",
+        "flightNum": "EZY3491",
+        "date": 20241105
+    },
+    {
+        "typeTrafic": "Départ",
+        "codeAirport": "NBE",
+        "flightNum": "EZY3492",
+        "date": 20241105
+    },
+    {
+        "typeTrafic": "Arrivée",
+        "codeAirport": "NBE",
+        "flightNum": "EZY8855",
+        "date": 20241105
+    },
+    {
+        "typeTrafic": "Départ",
+        "codeAirport": "NBE",
+        "flightNum": "EZY8856",
+        "date": 20241105
+    },
+    {
+        "typeTrafic": "Arrivée",
+        "codeAirport": "NBE",
+        "flightNum": "EZS1579",
+        "date": 20241105
+    },
+    {
+        "typeTrafic": "Arrivée",
+        "codeAirport": "NBE",
+        "flightNum": "EZY3119",
+        "date": 20241105
+    },
+    {
+        "typeTrafic": "Arrivée",
+        "codeAirport": "NBE",
+        "flightNum": "EZY3071",
+        "date": 20241105
+    },
+    {
+        "typeTrafic": "Arrivée",
+        "codeAirport": "DJE",
+        "flightNum": "EZY2627",
+        "date": 20241105
+    },
+    {
+        "typeTrafic": "Départ",
+        "codeAirport": "NBE",
+        "flightNum": "EZY3120",
+        "date": 20241105
+    },
+    {
+        "typeTrafic": "Départ",
+        "codeAirport": "NBE",
+        "flightNum": "EZY3072",
+        "date": 20241105
+    },
+    {
+        "typeTrafic": "Arrivée",
+        "codeAirport": "NBE",
+        "flightNum": "EZY2275",
+        "date": 20241105
+    },
+    {
+        "typeTrafic": "Départ",
+        "codeAirport": "NBE",
+        "flightNum": "EZY2276",
+        "date": 20241105
+    },
+    {
+        "typeTrafic": "Arrivée",
+        "codeAirport": "NBE",
+        "flightNum": "EZY2275",
+        "date": 20241106
+    },
+    {
+        "typeTrafic": "Arrivée",
+        "codeAirport": "NBE",
+        "flightNum": "EZY2941",
+        "date": 20241106
+    },
+    {
+        "typeTrafic": "Départ",
+        "codeAirport": "NBE",
+        "flightNum": "EZY2942",
+        "date": 20241106
+    },
+    {
+        "typeTrafic": "Départ",
+        "codeAirport": "NBE",
+        "flightNum": "EZY2276",
+        "date": 20241106
+    },
+    {
+        "typeTrafic": "Arrivée",
+        "codeAirport": "NBE",
+        "flightNum": "EZY2651",
+        "date": 20241106
+    },
+    {
+        "typeTrafic": "Arrivée",
+        "codeAirport": "NBE",
+        "flightNum": "EZY8855",
+        "date": 20241106
+    },
+    {
+        "typeTrafic": "Départ",
+        "codeAirport": "NBE",
+        "flightNum": "EZY2652",
+        "date": 20241106
+    },
+    {
+        "typeTrafic": "Départ",
+        "codeAirport": "NBE",
+        "flightNum": "EZY8856",
+        "date": 20241106
+    },
+    {
+        "typeTrafic": "Arrivée",
+        "codeAirport": "DJE",
+        "flightNum": "EZS1507",
+        "date": 20241106
+    }
+]
