@@ -136,5 +136,11 @@
         "codeAirport": "TUN",
         "flightNum": "TU607",
         "date": 20241106
+    },
+    {
+        "typeTrafic": "Départ",
+        "codeAirport": "DJE",
+        "flightNum": "UG11",
+        "date": 20241106
     }
 ]
