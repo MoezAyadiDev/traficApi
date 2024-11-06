@@ -124,5 +124,11 @@
         "codeAirport": "DJE",
         "flightNum": "EZS1507",
         "date": 20241106
+    },
+    {
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "flightNum": "TO8776",
+        "date": 20241106
     }
 ]
