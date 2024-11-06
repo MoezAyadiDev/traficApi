@@ -130,5 +130,11 @@
         "codeAirport": "TUN",
         "flightNum": "TO8776",
         "date": 20241106
+    },
+    {
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "flightNum": "TU607",
+        "date": 20241106
     }
 ]
