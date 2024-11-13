@@ -48,10 +48,10 @@
         "date": 20241105
     },
     {
-        "typeTrafic": "Départ",
-        "codeAirport": "NBE",
-        "flightNum": "EZY3120",
-        "date": 20241105
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "flightNum": "TU607",
+        "date": 20241113
     },
     {
         "typeTrafic": "Départ",
