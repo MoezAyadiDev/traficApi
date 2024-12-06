@@ -10,137 +10,606 @@
         "codeAirport": "NBE",
         "flightNum": "EZY3492",
         "date": 20241105
-    },
+    }, 
     {
-        "typeTrafic": "Arrivée",
-        "codeAirport": "NBE",
-        "flightNum": "EZY8855",
-        "date": 20241105
-    },
-    {
-        "typeTrafic": "Départ",
-        "codeAirport": "NBE",
-        "flightNum": "EZY8856",
-        "date": 20241105
-    },
-    {
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "flightNum": "AF1384",
-        "date": 20241110
-    },
-    {
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "flightNum": "TU725",
-        "date": 20241110
-    },
-    {
-        "typeTrafic": "Arrivée",
-        "codeAirport": "NBE",
-        "flightNum": "EZY3071",
-        "date": 20241105
-    },
-    {
-        "typeTrafic": "Arrivée",
-        "codeAirport": "DJE",
-        "flightNum": "EZY2627",
-        "date": 20241105
-    },
-    {
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "flightNum": "TU607",
-        "date": 20241113
-    },
-    {
-        "typeTrafic": "Départ",
-        "codeAirport": "NBE",
-        "flightNum": "EZY3072",
-        "date": 20241105
-    },
-    {
-        "typeTrafic": "Arrivée",
-        "codeAirport": "NBE",
-        "flightNum": "EZY2275",
-        "date": 20241105
-    },
-    {
-        "typeTrafic": "Départ",
-        "codeAirport": "NBE",
-        "flightNum": "EZY2276",
-        "date": 20241105
-    },
-    {
-        "typeTrafic": "Arrivée",
-        "codeAirport": "NBE",
-        "flightNum": "EZY2275",
-        "date": 20241106
-    },
-    {
-        "typeTrafic": "Arrivée",
-        "codeAirport": "NBE",
-        "flightNum": "EZY2941",
-        "date": 20241106
-    },
-    {
-        "typeTrafic": "Départ",
-        "codeAirport": "NBE",
-        "flightNum": "EZY2942",
-        "date": 20241106
-    },
-    {
-        "typeTrafic": "Départ",
-        "codeAirport": "NBE",
-        "flightNum": "EZY2276",
-        "date": 20241106
-    },
-    {
-        "typeTrafic": "Arrivée",
-        "codeAirport": "NBE",
-        "flightNum": "EZY2651",
-        "date": 20241106
-    },
-    {
-        "typeTrafic": "Arrivée",
-        "codeAirport": "NBE",
-        "flightNum": "EZY8855",
-        "date": 20241106
-    },
-    {
-        "typeTrafic": "Départ",
-        "codeAirport": "NBE",
-        "flightNum": "EZY2652",
-        "date": 20241106
-    },
-    {
-        "typeTrafic": "Départ",
-        "codeAirport": "NBE",
-        "flightNum": "EZY8856",
-        "date": 20241106
-    },
-    {
-        "typeTrafic": "Arrivée",
-        "codeAirport": "DJE",
-        "flightNum": "EZS1507",
-        "date": 20241106
-    },
-    {
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "flightNum": "AF1384",
-        "date": 20241113
-    },
-    {
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "flightNum": "TK657",
-        "date": 20241113
-    },
-    {
-        "typeTrafic": "Départ",
-        "codeAirport": "DJE",
-        "flightNum": "UG011",
-        "date": 20241106
-    }
+    flightNum: "7A103",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TO8776",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TO8800",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "AF1084",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "ITI117",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "AZ864",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TO8230",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU931",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU997",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "WT148",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "7A111",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU247",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "LH1322",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU751",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BJ185",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU283",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU757",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU719",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BJ235",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU955",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BJ777",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BJ281",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TO8222",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "AF1184",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BJ517",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU903",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "AZ866",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BJ281",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TO8336",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU701",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU543",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU723",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU527",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BJ599",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BJ715",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BJ233",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BJ397",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BJ587",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BJ521",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU649",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "AF1384",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU725",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU629",
+    typeTrafic: "Arrivée",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "AF1385",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU246",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU930",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU718",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU996",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BJ184",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU750",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU282",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU756",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU954",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BJ234",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BJ776",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TO8777",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TO8801",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BJ280",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "AF1085",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "AZ863",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TO8231",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "LH1323",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BJ516",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU526",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BJ280",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU902",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU722",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU542",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU700",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BJ232",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BJ396",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BJ598",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BJ520",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TO8223",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BJ714",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "AF1185",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU648",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "WT149",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU724",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BJ586",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "ITI118",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TU628",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "AZ867",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "TO8337",
+    typeTrafic: "Départ",
+    airport: "TUN",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BY468",
+    typeTrafic: "Arrivée",
+    airport: "NBE",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BY858",
+    typeTrafic: "Arrivée",
+    airport: "NBE",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "U22275",
+    typeTrafic: "Arrivée",
+    airport: "NBE",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "U22967",
+    typeTrafic: "Arrivée",
+    airport: "NBE",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "U28855",
+    typeTrafic: "Arrivée",
+    airport: "NBE",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BY528",
+    typeTrafic: "Arrivée",
+    airport: "NBE",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BY228",
+    typeTrafic: "Arrivée",
+    airport: "NBE",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "U22651",
+    typeTrafic: "Arrivée",
+    airport: "NBE",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BY469",
+    typeTrafic: "Départ",
+    airport: "NBE",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BY859",
+    typeTrafic: "Départ",
+    airport: "NBE",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "U22276",
+    typeTrafic: "Départ",
+    airport: "NBE",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "U22968",
+    typeTrafic: "Départ",
+    airport: "NBE",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "U28856",
+    typeTrafic: "Départ",
+    airport: "NBE",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BY529",
+    typeTrafic: "Départ",
+    airport: "NBE",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "BY229",
+    typeTrafic: "Départ",
+    airport: "NBE",
+    dateTrafic: 20241206,
+  },
+  {
+    flightNum: "U22652",
+    typeTrafic: "Départ",
+    airport: "NBE",
+    dateTrafic: 20241206,
+  }
+   
 ]
