@@ -78,12 +78,6 @@
         "dateTrafic": 20241207
     },
     {
-        "flightNum": null,
-        "typeTrafic": "Arrivée",
-        "airport": "TUN",
-        "dateTrafic": 20241207
-    },
-    {
         "flightNum": "UG1759",
         "typeTrafic": "Arrivée",
         "airport": "TUN",
@@ -216,6 +210,12 @@
         "dateTrafic": 20241207
     },
     {
+        "flightNum": "7A111",
+        "typeTrafic": "Arrivée",
+        "airport": "TUN",
+        "dateTrafic": 20241207
+    },
+    {
         "flightNum": "AF1384",
         "typeTrafic": "Arrivée",
         "airport": "TUN",
@@ -326,18 +326,6 @@
         "dateTrafic": 20241207
     },
     {
-        "flightNum": null,
-        "typeTrafic": "Départ",
-        "airport": "TUN",
-        "dateTrafic": 20241207
-    },
-    {
-        "flightNum": null,
-        "typeTrafic": "Départ",
-        "airport": "TUN",
-        "dateTrafic": 20241207
-    },
-    {
         "flightNum": "AF1085",
         "typeTrafic": "Départ",
         "airport": "TUN",
@@ -423,6 +411,12 @@
     },
     {
         "flightNum": "AF1185",
+        "typeTrafic": "Départ",
+        "airport": "TUN",
+        "dateTrafic": 20241207
+    },
+    {
+        "flightNum": "7A110",
         "typeTrafic": "Départ",
         "airport": "TUN",
         "dateTrafic": 20241207
