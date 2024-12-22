@@ -3,702 +3,576 @@
         "flightNum": "LH1326",
         "typeTrafic": "Arrivée",
         "codeAirport": "TUN",
-        "date": 20241221
+        "date": 20241222
     },
     {
         "flightNum": "LH1327",
         "typeTrafic": "Départ",
         "codeAirport": "TUN",
-        "date": 20241221
+        "date": 20241222
+    },
+    {
+        "flightNum": "LH8301",
+        "typeTrafic": "Départ",
+        "codeAirport": "TUN",
+        "date": 20241222
     },
     {
         "flightNum": "AF1385",
         "typeTrafic": "Départ",
         "codeAirport": "TUN",
-        "date": 20241221
+        "date": 20241222
     },
     {
-        "flightNum": "BJ184",
+        "flightNum": "BJ280",
         "typeTrafic": "Départ",
         "codeAirport": "TUN",
-        "date": 20241221
+        "date": 20241222
     },
     {
         "flightNum": "TU930",
         "typeTrafic": "Départ",
         "codeAirport": "TUN",
-        "date": 20241221
+        "date": 20241222
     },
     {
         "flightNum": "TU996",
         "typeTrafic": "Départ",
         "codeAirport": "TUN",
-        "date": 20241221
+        "date": 20241222
     },
     {
-        "flightNum": "BJ166",
+        "flightNum": "BJ204",
         "typeTrafic": "Départ",
         "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "BJ596",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
+        "date": 20241222
     },
     {
         "flightNum": "TU750",
         "typeTrafic": "Départ",
         "codeAirport": "TUN",
-        "date": 20241221
+        "date": 20241222
+    },
+    {
+        "flightNum": "BJ598",
+        "typeTrafic": "Départ",
+        "codeAirport": "TUN",
+        "date": 20241222
     },
     {
         "flightNum": "BJ510",
         "typeTrafic": "Départ",
         "codeAirport": "TUN",
-        "date": 20241221
+        "date": 20241222
     },
     {
         "flightNum": "TU756",
         "typeTrafic": "Départ",
         "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "BJ206",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
+        "date": 20241222
     },
     {
         "flightNum": "TU954",
         "typeTrafic": "Départ",
         "codeAirport": "TUN",
-        "date": 20241221
+        "date": 20241222
     },
     {
         "flightNum": "TU744",
         "typeTrafic": "Départ",
         "codeAirport": "TUN",
-        "date": 20241221
+        "date": 20241222
     },
     {
         "flightNum": "TU752",
         "typeTrafic": "Départ",
         "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TU362",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "BJ844",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TO8844",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
+        "date": 20241222
     },
     {
         "flightNum": "TU718",
         "typeTrafic": "Départ",
         "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TO8776",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TB2751",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "NBE",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TO8845",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TO8777",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TB2752",
-        "typeTrafic": "Départ",
-        "codeAirport": "NBE",
-        "date": 20241221
-    },
-    {
-        "flightNum": "AF1084",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "UG1758",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "BJ185",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "AZ864",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "AF1085",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TU931",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TU997",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "LH1744",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "AZ863",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TU753",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "BJ714",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "LH1322",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "LH1745",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TU751",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "U28855",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "NBE",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TU363",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "BJ167",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "U22275",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "NBE",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TU757",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TO8230",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TU282",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "LH1323",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TU2722",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TU902",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TO8231",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "U28856",
-        "typeTrafic": "Départ",
-        "codeAirport": "NBE",
-        "date": 20241221
-    },
-    {
-        "flightNum": "U22276",
-        "typeTrafic": "Départ",
-        "codeAirport": "NBE",
-        "date": 20241221
-    },
-    {
-        "flightNum": "UG1759",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TU722",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "BJ511",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TU790",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TO8336",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TU745",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "XZ3526",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "W28547",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "BJ207",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TU955",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TU719",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TO8817",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "BJ756",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "XZ3527",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "W28471",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "BJ612",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TO8284",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "BJ822",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "BJ845",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TU850",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "AF1184",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TO8285",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "BJ520",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TU700",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "BJ722",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "BJ715",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "AF1185",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TU903",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "U28881",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "NBE",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TU724",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TU283",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "U28882",
-        "typeTrafic": "Départ",
-        "codeAirport": "NBE",
-        "date": 20241221
-    },
-    {
-        "flightNum": "AZ866",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "EW9898",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TU2723",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TO8816",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "AZ867",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "BJ613",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "EW9899",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
+        "date": 20241222
     },
     {
         "flightNum": "TO8222",
         "typeTrafic": "Arrivée",
         "codeAirport": "TUN",
-        "date": 20241221
+        "date": 20241222
     },
     {
-        "flightNum": "TU723",
+        "flightNum": "TO8776",
         "typeTrafic": "Arrivée",
         "codeAirport": "TUN",
-        "date": 20241221
+        "date": 20241222
     },
     {
-        "flightNum": "U22651",
+        "flightNum": "U21579",
         "typeTrafic": "Arrivée",
         "codeAirport": "NBE",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TO8337",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "U23491",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "NBE",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TO8624",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TU851",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "U23071",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "NBE",
-        "date": 20241221
+        "date": 20241222
     },
     {
         "flightNum": "TO8223",
         "typeTrafic": "Départ",
         "codeAirport": "TUN",
-        "date": 20241221
+        "date": 20241222
+    },
+    {
+        "flightNum": "TO8777",
+        "typeTrafic": "Départ",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "AF1084",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "U21580",
+        "typeTrafic": "Départ",
+        "codeAirport": "NBE",
+        "date": 20241222
+    },
+    {
+        "flightNum": "U22967",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "NBE",
+        "date": 20241222
+    },
+    {
+        "flightNum": "AZ864",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "BJ184",
+        "typeTrafic": "Départ",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "U22275",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "NBE",
+        "date": 20241222
+    },
+    {
+        "flightNum": "AF1085",
+        "typeTrafic": "Départ",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "U22968",
+        "typeTrafic": "Départ",
+        "codeAirport": "NBE",
+        "date": 20241222
+    },
+    {
+        "flightNum": "BJ586",
+        "typeTrafic": "Départ",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "TU931",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "TU997",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "LH1744",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
     },
     {
         "flightNum": "U26331",
         "typeTrafic": "Arrivée",
         "codeAirport": "NBE",
-        "date": 20241221
+        "date": 20241222
     },
     {
-        "flightNum": "U22652",
-        "typeTrafic": "Départ",
-        "codeAirport": "NBE",
-        "date": 20241221
-    },
-    {
-        "flightNum": "TO8625",
-        "typeTrafic": "Départ",
-        "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "U23492",
-        "typeTrafic": "Départ",
-        "codeAirport": "NBE",
-        "date": 20241221
-    },
-    {
-        "flightNum": "BJ757",
+        "flightNum": "TO8230",
         "typeTrafic": "Arrivée",
         "codeAirport": "TUN",
-        "date": 20241221
+        "date": 20241222
     },
     {
-        "flightNum": "TU791",
+        "flightNum": "AZ863",
+        "typeTrafic": "Départ",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "7A102",
+        "typeTrafic": "Départ",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "TU753",
         "typeTrafic": "Arrivée",
         "codeAirport": "TUN",
-        "date": 20241221
+        "date": 20241222
     },
     {
-        "flightNum": "U23072",
+        "flightNum": "BJ281",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "TO8284",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "U22276",
         "typeTrafic": "Départ",
         "codeAirport": "NBE",
-        "date": 20241221
+        "date": 20241222
     },
     {
-        "flightNum": "EW382",
+        "flightNum": "BJ599",
         "typeTrafic": "Arrivée",
         "codeAirport": "TUN",
-        "date": 20241221
+        "date": 20241222
+    },
+    {
+        "flightNum": "TO8231",
+        "typeTrafic": "Départ",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "TU751",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
     },
     {
         "flightNum": "U26332",
         "typeTrafic": "Départ",
         "codeAirport": "NBE",
-        "date": 20241221
+        "date": 20241222
+    },
+    {
+        "flightNum": "LH1745",
+        "typeTrafic": "Départ",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "TU856",
+        "typeTrafic": "Départ",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "TU757",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "TU998",
+        "typeTrafic": "Départ",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "BJ634",
+        "typeTrafic": "Départ",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "TO8285",
+        "typeTrafic": "Départ",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "BJ205",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "TU722",
+        "typeTrafic": "Départ",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "BJ511",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "TU790",
+        "typeTrafic": "Départ",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "TU745",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "TU700",
+        "typeTrafic": "Départ",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "TU955",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "BJ234",
+        "typeTrafic": "Départ",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "U21273",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "NBE",
+        "date": 20241222
+    },
+    {
+        "flightNum": "TU282",
+        "typeTrafic": "Départ",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "TU719",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "BJ587",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "AF1184",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "U21274",
+        "typeTrafic": "Départ",
+        "codeAirport": "NBE",
+        "date": 20241222
+    },
+    {
+        "flightNum": "BJ185",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "BJ396",
+        "typeTrafic": "Départ",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "BJ520",
+        "typeTrafic": "Départ",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "AF1185",
+        "typeTrafic": "Départ",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "BJ516",
+        "typeTrafic": "Départ",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "TU999",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "TU857",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "LH1324",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "BJ635",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "TU724",
+        "typeTrafic": "Départ",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "UG1760",
+        "typeTrafic": "Départ",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "AZ866",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "LH1325",
+        "typeTrafic": "Départ",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "TO8336",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "U26617",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "NBE",
+        "date": 20241222
+    },
+    {
+        "flightNum": "U22651",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "NBE",
+        "date": 20241222
     },
     {
         "flightNum": "TU701",
         "typeTrafic": "Arrivée",
         "codeAirport": "TUN",
-        "date": 20241221
+        "date": 20241222
     },
     {
-        "flightNum": "U23119",
-        "typeTrafic": "Arrivée",
-        "codeAirport": "NBE",
-        "date": 20241221
-    },
-    {
-        "flightNum": "EW383",
+        "flightNum": "AZ867",
         "typeTrafic": "Départ",
         "codeAirport": "TUN",
-        "date": 20241221
+        "date": 20241222
     },
     {
-        "flightNum": "BJ823",
-        "typeTrafic": "Arrivée",
+        "flightNum": "TO8337",
+        "typeTrafic": "Départ",
         "codeAirport": "TUN",
-        "date": 20241221
+        "date": 20241222
     },
     {
-        "flightNum": "BJ723",
+        "flightNum": "TU283",
         "typeTrafic": "Arrivée",
         "codeAirport": "TUN",
-        "date": 20241221
+        "date": 20241222
+    },
+    {
+        "flightNum": "U26618",
+        "typeTrafic": "Départ",
+        "codeAirport": "NBE",
+        "date": 20241222
+    },
+    {
+        "flightNum": "U22652",
+        "typeTrafic": "Départ",
+        "codeAirport": "NBE",
+        "date": 20241222
+    },
+    {
+        "flightNum": "TU723",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "BJ235",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "TU791",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "BJ517",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "UG1761",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
+    },
+    {
+        "flightNum": "BJ397",
+        "typeTrafic": "Arrivée",
+        "codeAirport": "TUN",
+        "date": 20241222
     },
     {
         "flightNum": "BJ521",
         "typeTrafic": "Arrivée",
         "codeAirport": "TUN",
-        "date": 20241221
-    },
-    {
-        "flightNum": "U23120",
-        "typeTrafic": "Départ",
-        "codeAirport": "NBE",
-        "date": 20241221
+        "date": 20241222
     },
     {
         "flightNum": "AF1384",
         "typeTrafic": "Arrivée",
         "codeAirport": "TUN",
-        "date": 20241221
+        "date": 20241222
     },
     {
         "flightNum": "TU725",
         "typeTrafic": "Arrivée",
         "codeAirport": "TUN",
-        "date": 20241221
+        "date": 20241222
     }
 ]
